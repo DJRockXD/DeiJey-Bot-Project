@@ -1,5 +1,6 @@
 # DeiJey-Bot-Project
 LAUNCH: DeijayMain & dataHandlingServer . Other Modules are meant to organize the code, they don't need to be run.
+For a more complete overview, see the Project Book combined in the repository.
 
 My Graduation Project.
 For a more complete overview, see "Project Book" in the repository.
